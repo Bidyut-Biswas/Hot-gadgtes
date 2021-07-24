@@ -1,0 +1,10 @@
+.sliding{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+main{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
